@@ -16,3 +16,5 @@ Double-click `ClipGetter.exe` in `C:\Users\samwe\Downloads\ClipGetter\ClipGetter
 
 ## Rebuilding the `.exe`
 Run `.\build_exe.ps1` from PowerShell.
+
+Free code signing provided by SignPath.io, certificate by SignPath Foundation.
